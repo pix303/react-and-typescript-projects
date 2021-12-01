@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin: 1em;
+}
+.card {
+  background-color: aqua;
+  border-radius: 1em;
+  margin: 0.25em;
+}
