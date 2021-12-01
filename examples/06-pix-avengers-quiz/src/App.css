@@ -1,0 +1,18 @@
+.question-article {
+  border: 0.5em solid blueviolet;
+  background-color: rgba(blueviolet, 0.35);
+  padding: 1em;
+  margin: 1em;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
+
+.blurred {
+  filter: blur(0.2em);
+}
